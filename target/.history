@@ -1,0 +1,11 @@
+console
+exit
+console
+exit
+compile
+run MyTest
+console
+exit
+compile
+exit
+console
